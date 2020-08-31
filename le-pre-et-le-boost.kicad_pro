@@ -289,7 +289,8 @@
       "pin_not_driven": "error",
       "pin_to_pin": "error",
       "similar_labels": "error",
-      "unresolved_variable": "error"
+      "unresolved_variable": "error",
+      "wire_dangling": "error"
     }
   },
   "libraries": {
@@ -303,7 +304,7 @@
   "net_settings": {
     "classes": [
       {
-        "bus_width": 6.0,
+        "bus_width": 5.984251968503937,
         "clearance": 0.2,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
@@ -315,7 +316,7 @@
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
-        "wire_width": 6.0
+        "wire_width": 5.984251968503937
       }
     ],
     "meta": {
@@ -354,17 +355,19 @@
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
+    "spice_external_command": "spice \"%I\"",
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
   "sheets": [
     [
-      "9496a673-4482-4bde-bf70-6a327287c762",
+      "9f632dc4-6d28-46a5-8d6e-cd0c1850cb79",
       ""
     ]
   ],
   "text_variables": {
-    "DATE": "2020-07-22",
-    "REVISION": "v0.1"
+    "DATE": "2020-08-31",
+    "REVISION": "v0.2",
+    "TITLE": "Le Pre et Le Boost"
   }
 }

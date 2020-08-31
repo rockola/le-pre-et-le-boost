@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "",
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -59,7 +59,7 @@
       36,
       37
     ],
-    "visible_layers": "00000_80000001"
+    "visible_layers": "05030_80000001"
   },
   "meta": {
     "filename": "le-pre-et-le-boost.kicad_prl",
