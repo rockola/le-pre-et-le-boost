@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "(5.99.0-3084-g8945f8865-dirty)"
+      "Version": "6.0.0+dfsg1-2"
     },
-    "CreationDate": "2020-08-31T13:15:18+03:00"
+    "CreationDate": "2022-01-11T21:03:09+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -54,12 +54,12 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "le-pre-et-le-boost-F_SilkS.gbr",
+      "Path": "le-pre-et-le-boost-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "le-pre-et-le-boost-B_SilkS.gbr",
+      "Path": "le-pre-et-le-boost-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },

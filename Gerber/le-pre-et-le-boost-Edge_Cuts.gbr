@@ -1,11 +1,11 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,(5.99.0-3084-g8945f8865-dirty)*%
-%TF.CreationDate,2020-08-31T13:15:18+03:00*%
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.0+dfsg1-2*%
+%TF.CreationDate,2022-01-11T21:03:09+02:00*%
 %TF.ProjectId,le-pre-et-le-boost,6c652d70-7265-42d6-9574-2d6c652d626f,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Profile,NP*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW (5.99.0-3084-g8945f8865-dirty)) date 2020-08-31 13:15:18*
+G04 Created by KiCad (PCBNEW 6.0.0+dfsg1-2) date 2022-01-11 21:03:09*
 %MOMM*%
 %LPD*%
 G01*
